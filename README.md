@@ -46,4 +46,4 @@ To build an intelligent, real-time quality control system for manufacturing indu
   - Weight
   - Temperature
 - Labeled manually for model training (defective / non-defective)
--
+
